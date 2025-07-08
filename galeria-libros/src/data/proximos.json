@@ -1,0 +1,17 @@
+[
+  {
+    "nombre": "La Sombra del Viento",
+    "imagen": "sombra_viento.jpeg",
+    "descripcion": "Un joven descubre un libro que cambiará su vida para siempre."
+  },
+  {
+    "nombre": "Cien años de soledad",
+    "imagen": "cien_anos.jpeg",
+    "descripcion": "Una saga familiar llena de realismo mágico en Macondo."
+  },
+  {
+    "nombre": "El Alquimista",
+    "imagen": "alquimista.jpeg",
+    "descripcion": "Un viaje espiritual en busca del destino y el tesoro interior."
+  }
+]

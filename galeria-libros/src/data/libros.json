@@ -1,0 +1,72 @@
+[
+  {
+    "nombre": "El Señor de los Anillos",
+    "imagen": "El_Señor_de_los_Anillos_lectura.jpg",
+    "repo": "https://es.wikipedia.org/wiki/El_Se%C3%B1or_de_los_Anillos",
+    "tecnologias": ["Fantasía", "Épica"],
+    "descripcion": "Una aventura épica donde hobbits, elfos y humanos luchan contra las fuerzas del mal por el control del Anillo Único.",
+    "precio": 120000,
+    "promocion": false,
+    "compras": 175
+  },
+  {
+    "nombre": "Harry Potter y la piedra filosofal",
+    "imagen": "Harry_poter.jpg",
+    "repo": "https://es.wikipedia.org/wiki/Harry_Potter_y_la_piedra_filosofal",
+    "tecnologias": ["Fantasía", "Magia"],
+    "descripcion": "Harry descubre que es un mago y entra en el mundo mágico, enfrentando peligros y revelaciones en su primer año en Hogwarts.",
+    "precio": 85000,
+    "promocion": true,
+    "compras": 320
+  },
+  {
+    "nombre": "Dune",
+    "imagen": "Dune.jpeg",
+    "repo": "https://es.wikipedia.org/wiki/Dune_(novela)",
+    "tecnologias": ["Ciencia ficción", "Aventura"],
+    "descripcion": "En el planeta desértico Arrakis, Paul Atreides debe sobrevivir, liderar y cumplir una profecía que cambiará el universo.",
+    "precio": 95000,
+    "promocion": true,
+    "compras": 210
+  },
+  {
+    "nombre": "El nombre del viento",
+    "imagen": "nombre_viento.jpeg",
+    "repo": "https://es.wikipedia.org/wiki/El_nombre_del_viento",
+    "tecnologias": ["Fantasía", "Drama"],
+    "descripcion": "Kvothe relata su vida: desde la tragedia de su niñez hasta convertirse en uno de los magos más poderosos y enigmáticos.",
+    "precio": 99000,
+    "promocion": false,
+    "compras": 280
+  },
+  {
+    "nombre": "Juego de tronos",
+    "imagen": "AGameOfThrones.jpg",
+    "repo": "https://es.wikipedia.org/wiki/Juego_de_tronos",
+    "tecnologias": ["Fantasía", "Política", "Intriga"],
+    "descripcion": "La lucha por el Trono de Hierro envuelve a nobles, guerreros y traidores en una épica de batallas, dragones y conspiraciones.",
+    "precio": 110000,
+    "promocion": true,
+    "compras": 245
+  },
+  {
+    "nombre": "Ready Player One",
+    "imagen": "Ready_Player_One_cover.jpg",
+    "repo": "https://es.wikipedia.org/wiki/Ready_Player_One",
+    "tecnologias": ["Ciencia ficción", "Videojuegos"],
+    "descripcion": "En un futuro distópico, un joven compite en un videojuego de realidad virtual para encontrar un tesoro escondido por su creador.",
+    "precio": 87000,
+    "promocion": false,
+    "compras": 190
+  },
+  {
+    "nombre": "Eragon",
+    "imagen": "Erago.jpeg",
+    "repo": "https://es.wikipedia.org/wiki/Eragon",
+    "tecnologias": ["Fantasía", "Dragones"],
+    "descripcion": "Eragon descubre un huevo de dragón y se convierte en Jinete, enfrentándose a un imperio tiránico con la ayuda de Saphira.",
+    "precio": 78000,
+    "promocion": true,
+    "compras": 265
+  }
+]
